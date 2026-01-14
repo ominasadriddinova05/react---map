@@ -1,0 +1,7 @@
+{
+  "name": "CourierGo Professional",
+  "description": "Enterprise-grade logistics management platform with real-time tracking, A-B routing, and external navigator integration.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
